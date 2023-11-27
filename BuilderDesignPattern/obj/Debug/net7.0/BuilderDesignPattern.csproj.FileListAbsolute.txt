@@ -1,0 +1,4 @@
+C:\Users\user\OneDrive\Desktop\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net7.0\BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net7.0\BuilderDesignPattern.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net7.0\BuilderDesignPattern.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net7.0\BuilderDesignPattern.csproj.CoreCompileInputs.cache
